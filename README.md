@@ -2,7 +2,7 @@
 
 A basic kit to get a new project started.
 
-## Kit details
+## Includes:
 
 - Bootstrap 3.1.1
 - LESS
